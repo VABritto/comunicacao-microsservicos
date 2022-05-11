@@ -1,6 +1,6 @@
 import Sequelize from "sequelize";
 
-const sequelize = new Sequelize("auth-db", "admin", "123Mudei", {
+const sequelize = new Sequelize("auth-db", "admin", "1234567", {
     host: "localhost",
     dialect: "postgres",
     quoteIdentifiers: false,
